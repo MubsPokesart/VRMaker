@@ -1,0 +1,52 @@
+
+S
+:Naganadel: Naganadel
+:Pheromosa: Pheromosa
+
+S-
+:Genesect: Genesect
+:Indeedee-F: Indeedee-F
+:Tornadus: Tornadus
+
+A+
+:Kyurem-Black: Kyurem-Black
+:Regieleki: Regieleki
+:Togekiss: Togekiss
+:Whimsicott: Whimsicott
+:Zygarde: Zygarde
+
+A
+:Cinderace: Cinderace
+:Landorus-T: Landorus-T
+:Nihilego: Nihilego
+:Tyranitar: Tyranitar
+:Ushifu-Rapid-Strike: Ushifu-Rapid-Strike
+:Victini: Victini
+
+A-
+:Amoonguss: Amoonguss
+:Rillaboom: Rillaboom
+:Volcanion: Volcanion
+:Zapdos: Zapdos
+:Zapdos-Galar: Zapdos-Galar
+:Zeraora: Zeraora
+
+B+
+:Diancie: Diancie
+:Heatran: Heatran
+:Incineroar: Incineroar
+:Mew: Mew
+:Tapu-Fini: Tapu-Fini
+:Tapu-Lele: Tapu-Lele
+:Weezing-Galar: Weezing-Galar
+
+B
+:Blastoise: Blastoise
+:Landorus-I: Landorus-I
+:Nidoking: Nidoking
+:Porygon2: Porygon2
+:Regidrago: Regidrago
+:Rhyperior: Rhyperior
+:Sableye: Sableye
+:Suicune: Suicune
+:Tsareen: Tsareen
